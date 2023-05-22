@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="CarFeature">
+        <State />
+      </entry>
+      <entry key="CarFeature.carIsTurningOnItsEngineAndIncreasesTheTemperature">
+        <State />
+      </entry>
+      <entry key="CarShould">
+        <State />
+      </entry>
+      <entry key="EngineShould.riseTheTemperatureWhenItTurnsOn">
+        <State />
+      </entry>
+      <entry key="ExampleUnitTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
